@@ -1,0 +1,1 @@
+conv -> binary -> segregate -> sorted > toexcel
